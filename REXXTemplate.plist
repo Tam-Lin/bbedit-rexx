@@ -88,7 +88,7 @@
 		<key>Escape Char in Strings 2</key>
 		<string></string>
 		<key>Identifier and Keyword Characters</key>
-		<string>0123456789ABCDEFGH IJKLMNOPQRSTUVWXYZ_@#$¢.!?abcdefghijklmnopqrstuvwxyz</string>
+		<string>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_@#$¢.!?abcdefghijklmnopqrstuvwxyz</string>
 		<key>Open Block Comments</key>
 		<string>/*</string>
 		<key>Open Line Comments</key>
